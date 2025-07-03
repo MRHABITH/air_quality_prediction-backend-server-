@@ -1,4 +1,4 @@
-Flask
+Fastapi
 scikit-learn
 joblib
 flask-cors
